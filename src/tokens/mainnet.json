@@ -1258,5 +1258,13 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/jMOxP5C.png",
     "trending": false
-  }
+  },
+  {
+  "name": "PumpXplode",
+  "chainId": 137,
+  "address": "0xc9A31E9b2B98Ee1ff721f43D412def856C57c3A9",
+  "symbol": "PXPLD",
+  "decimals": 18,
+  "logoURI": "https://imgur.com/5MUTiz7"
+}
 ]
