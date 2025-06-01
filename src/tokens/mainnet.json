@@ -1267,5 +1267,14 @@
     "chainId": 137,
     "logoURI": "https://imgur.com/5MUTiz7.png",
     "trending": false
+  },
+  {
+    "name": "AI CRYPTOM",
+    "address": "0xBD6eF20D0465274F73a2683EddcbE6c0ab2a9379",
+    "symbol": "CRYTPOM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://imgur.com/a/hgz48wj.png",
+    "trending": false
   }
 ]
